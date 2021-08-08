@@ -12,7 +12,7 @@ How to Install
 1. go in pi hole admin consol (web interface)
 2. click on group management
 3. click on adlist
-4. coppy this  https://github.com/LostiLama/Pihole-Block-List/blob/cc9cf24444ac8f201dbe7eb5648fa4e854928909/Blacklist%20Ultimate%20for%20Pi%20Hole_000001.txt https://github.com/LostiLama/Pihole-Block-List/blob/cc9cf24444ac8f201dbe7eb5648fa4e854928909/Blacklist%20Ultimate%20for%20Pi%20Hole_000002.txt
+4. coppy this the links out of the files WARNING PASTE ONE AFTER THE OTHER AND PRESS ADD IN BETWEAN OTHERWISE THE SITE CRASHES
 5. paste it into Address: in the web interface
 6. press add on the right
 7. Lastly follow Hints: bzw on raspberry pi run " pihole -g "
