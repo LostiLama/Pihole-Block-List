@@ -2,8 +2,7 @@
 A Blocklist with ca. 10 miodomains
 
 
-
-
+DISCLAIMER : i am not responsible for damage to property / software please make a backup beforehand as the lists are very large, errors can occur
 
 
 
