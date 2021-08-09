@@ -11,7 +11,7 @@ How to Install
 1. go in pi hole admin consol (web interface)
 2. click on group management
 3. click on adlist
-4. coppy this the links out of the files WARNING PASTE ONE AFTER THE OTHER AND PRESS ADD IN BETWEAN OTHERWISE THE SITE CRASHES
+4. open the link and copy  the links in it https://raw.githubusercontent.com/LostiLama/Pihole-Block-List/main/Blacklist.txt
 5. paste it into Address: in the web interface
 6. press add on the right
 7. Lastly follow Hints: bzw on raspberry pi run " pihole -g "
